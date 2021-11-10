@@ -1,0 +1,14 @@
+{
+"setDetails": {
+"chainId": 1,
+"setName": "<gomashiba>",
+"setSymbol": "<goma>",
+"setDecimals": 18,
+"setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/<goma>",
+"setDescription": "<goma finance>",
+"managerName": "<renzhenfen>",
+"managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/<renzhenfenpunk>",
+"managerDescription": "<goma in crypto>"
+},
+"version": 1
+}
